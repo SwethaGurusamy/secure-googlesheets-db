@@ -8,6 +8,8 @@ Looking for a novel way to store your data? Look no further! Semi-production rea
   `npm install secure-googlesheets-db`
   OR
   `npm install secure-googlesheets-db --save`
+  OR
+  `npm install secure-googlesheets-db -g`
 
 ## Usage
 
